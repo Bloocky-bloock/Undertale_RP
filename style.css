@@ -12,8 +12,8 @@
         padding: 10px;
     }
     .icon img{
-        width: 40px;
-        height: 8vh;
+        width: 30px;
+        height: 4vh;
     }
     .header ul{
         justify-content: center;
@@ -77,7 +77,10 @@
     .footer ul{
         padding: 0 60px;
         gap: 20px;
+        display: flex;
+        justify-content: space-between;
     }
+    
 }
 @media(min-width: 1024px){
     .header{
@@ -111,6 +114,8 @@
     .footer ul{
         padding: 0 65vh;
         gap: 20px;
+        display: flex;
+        justify-content: space-between;
     }
 }
 body{
@@ -191,10 +196,8 @@ a{
 .footer h1{
     padding: 20px 0;
 }
-.footer ul{
-    display: flex;
-    justify-content: space-between;
-}
+
+
 
 
 
