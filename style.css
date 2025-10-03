@@ -12,8 +12,8 @@
         padding: 10px;
     }
     .logo{
-        width: 30px;
-        height: 4vh;
+        width: 10vh;
+        height: 2vh;
     }
     .header ul{
         justify-content: center;
@@ -58,6 +58,10 @@
         gap: 30px;
         display: flex;
     }
+    .logo{
+        width: 40vh;
+        height: 6vh;
+    }
     .boxes{
         display: flex;
         justify-content: space-between;
@@ -94,6 +98,10 @@
     .header ul{
         gap: 30px;
         display: flex;
+    }
+    .logo{
+        width: 60vh;
+        height: 8vh;
     }
     .boxes{
         display: flex;
@@ -195,6 +203,7 @@ a{
 .footer h1{
     padding: 20px 0;
 }
+
 
 
 
