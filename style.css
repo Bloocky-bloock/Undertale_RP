@@ -16,9 +16,10 @@
         height: 4vh;
     }
     .header ul{
+        font-size: 15px;
         justify-content: center;
         padding: 10px 0;
-        gap: 10px;
+        gap: 5px;
         display: flex;
     }
     .boxes{
@@ -203,6 +204,7 @@ a{
 .footer h1{
     padding: 20px 0;
 }
+
 
 
 
