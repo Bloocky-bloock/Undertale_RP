@@ -9,12 +9,12 @@
     .header{
         justify-content: center;
         text-align: center;
-        padding: 20px;
+        padding: 10px;
     }
     .header ul{
         justify-content: center;
-        padding: 20px 0;
-        gap: 15px;
+        padding: 10px 0;
+        gap: 5px;
         display: flex;
     }
     .boxes{
@@ -35,7 +35,7 @@
         padding: 0 20px 10px 0;
     }
     .footer ul{
-        padding: 0 20px;
+        padding: 0 10px;
     }
 }
 @media(min-width: 768px) and (max-width: 1023px){
@@ -189,4 +189,5 @@ a{
     gap: 20px;
     justify-content: space-between;
 }
+
 
