@@ -11,7 +11,7 @@
         text-align: center;
         padding: 10px;
     }
-    .logo img{
+    .logo{
         width: 30px;
         height: 4vh;
     }
@@ -199,6 +199,7 @@ a{
 .footer h1{
     padding: 20px 0;
 }
+
 
 
 
