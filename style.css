@@ -132,10 +132,6 @@ body{
     background-size: cover;
     background-position: center;
 }
-.logo a{
-    font-size: 50px;
-    color: rgb(0, 0, 0, 0);
-}
 a{
     color: white;
     text-decoration: none;
@@ -199,6 +195,7 @@ a{
 .footer h1{
     padding: 20px 0;
 }
+
 
 
 
