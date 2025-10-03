@@ -12,8 +12,8 @@
         padding: 10px;
     }
     .logo{
-        width: 10vh;
-        height: 2vh;
+        width: 40vh;
+        height: 4vh;
     }
     .header ul{
         justify-content: center;
@@ -59,8 +59,8 @@
         display: flex;
     }
     .logo{
-        width: 40vh;
-        height: 6vh;
+        width: 50vh;
+        height: 5vh;
     }
     .boxes{
         display: flex;
@@ -203,6 +203,7 @@ a{
 .footer h1{
     padding: 20px 0;
 }
+
 
 
 
