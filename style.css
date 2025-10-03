@@ -11,10 +11,14 @@
         text-align: center;
         padding: 10px;
     }
+    .icon img{
+        width: 40px;
+        height: 8vh;
+    }
     .header ul{
         justify-content: center;
         padding: 10px 0;
-        gap: 5px;
+        gap: 10px;
         display: flex;
     }
     .boxes{
@@ -36,7 +40,7 @@
     }
     .footer ul{
         padding: 0 10px;
-        gap: 5px;
+        gap: 2px;
     }
 }
 @media(min-width: 768px) and (max-width: 1023px){
@@ -191,6 +195,7 @@ a{
     display: flex;
     justify-content: space-between;
 }
+
 
 
 
