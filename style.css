@@ -9,10 +9,13 @@
     .header{
         justify-content: center;
         text-align: center;
+        padding: 20px;
     }
     .header ul{
         justify-content: center;
         padding: 20px 0;
+        gap: 15px;
+        display: flex;
     }
     .boxes{
         padding: 30px 60px;
@@ -32,17 +35,20 @@
         padding: 0 20px 10px 0;
     }
     .footer ul{
-        padding: 0 60px;
+        padding: 0 20px;
     }
 }
 @media(min-width: 768px) and (max-width: 1023px){
     .header{
         justify-content: center;
         text-align: center;
+        padding: 20px 60px;
     }
     .header ul{
         justify-content: center;
         padding: 20px 0;
+        gap: 30px;
+        display: flex;
     }
     .boxes{
         display: flex;
@@ -71,6 +77,11 @@
     .header{
         display: flex;
         justify-content: space-between;
+        padding: 20px 60px;
+    }
+    .header ul{
+        gap: 30px;
+        display: flex;
     }
     .boxes{
         display: flex;
@@ -100,7 +111,6 @@ body{
 }
 .header{
     background-color: black;
-    padding: 20px 60px;
 }
 .logo{
     background-image: url(undertale.jpg);
@@ -114,10 +124,6 @@ body{
 a{
     color: white;
     text-decoration: none;
-}
-.header ul{
-    gap: 30px;
-    display: flex;
 }
 .header ul li{
     padding-top: 25px;
@@ -183,3 +189,4 @@ a{
     gap: 20px;
     justify-content: space-between;
 }
+
