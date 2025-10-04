@@ -16,9 +16,10 @@
         height: 4vh;
     }
     .header ul{
+        font-size: 15px;
         justify-content: center;
         padding: 10px 0;
-        gap: 10px;
+        gap: 5px;
         display: flex;
     }
     .navbar{
@@ -170,3 +171,4 @@ a{
     border-radius: 20px;
     text-align: center;
 }
+
